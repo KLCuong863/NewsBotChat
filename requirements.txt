@@ -1,0 +1,13 @@
+sentence-transformers
+jupyter
+numpy
+matplotlib
+scikit-learn
+umap-learn
+feedparser
+psycopg[binary]
+pgvector
+python-dotenv
+trafilatura
+requests
+lxml
